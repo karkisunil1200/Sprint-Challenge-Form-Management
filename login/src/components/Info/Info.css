@@ -1,0 +1,9 @@
+.info {
+    box-shadow: 0 5px 10px #ccc;
+    padding: 20px;
+    height: 200px; 
+    width: 250px;
+    background: white;
+    position: relative;
+    color:black;
+}
